@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and AI, WebDev Freelance
 --------------------------------
 
-I have been studying programming for about 3 years and AI for about 7 months, I know the basics of Machine Learning, Deep Learning, Neural Network Currently I am studying at Huachiew Chalermprakiet University
+I have been studying programming for about 3 years and AI for about 7 months, I know the basics of Machine Learning, Deep Learning, Neural Network Currently I am studying at Huachiew Chalermprakiet University (Bachelor's degree)
 
 * 🌍  I'm based in Kamphangphet
 * ✉️  You can contact me at [phanuwat606@gmail.com](mailto:phanuwat606@gmail.com)

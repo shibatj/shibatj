@@ -8,7 +8,6 @@ I am studying at Huachiew Chalermprakiet University (Bachelor's degree)
 
 * 🌍  I'm based in Kamphangphet
 * ✉️  You can contact me at [phanuwat606@gmail.com](mailto:phanuwat606@gmail.com)
-* 🧠  I'm learning Regression, Dimensionality reuction, Reinforcement Learning, Imitational Learning
 
 ### Skills
 
